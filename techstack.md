@@ -48,7 +48,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [akasaa101/Express-Boilerplate](https://github.com/akasaa101/Express-Boilerplate)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|52<br/>Tools used|11/28/23 <br/>Report generated|
+|52<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
